@@ -1,5 +1,8 @@
 # 🐦 Twitter Sentiment Analysis - Full Stack ML Application
 
+🚀 Live Demo:
+https://nagulapalli0204-ml-model.hf.space
+
 A production-ready machine learning application that analyzes the sentiment of tweets using the BERTweet model. Built with FastAPI backend, Streamlit frontend, and containerized with Docker.
 
 ## 📋 Project Overview
